@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## 🔗 Links
+[![AnimeVault](https://anime-vault-nine-sable.vercel.app/logo.svg)](https://anime-vault-nine-sable.vercel.app)
+AnimeVault
 
 First, run the development server:
 
